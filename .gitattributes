@@ -1,0 +1,4 @@
+New filter=lfs diff=lfs merge=lfs -text
+Unity filter=lfs diff=lfs merge=lfs -text
+Project filter=lfs diff=lfs merge=lfs -text
+NewUnityProject filter=lfs diff=lfs merge=lfs -text
